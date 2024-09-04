@@ -21,7 +21,7 @@ Download the starter code and go through the README.md file. This will provide f
 
 Want some support on the challenge? Join our community and ask questions in the help channel.
 
-### Screenshot
+## Screenshot
 
 - Desktop version
 
@@ -31,19 +31,19 @@ Want some support on the challenge? Join our community and ask questions in the 
 
 ![Mobile](/screenshots/3.png)
 
-### Links
+## Links
 
 - Solution URL: [Click](https://rubchenkoartem.github.io/Recipe-page-Frontend-Mentor/)
 - Live Site URL: [Click](https://rubchenkoartem.github.io/Recipe-page-Frontend-Mentor/)
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 
-### Code
+## Code
 
 ```css
 .body {
