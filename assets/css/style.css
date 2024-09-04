@@ -1,0 +1,89 @@
+hr {
+    margin: 30px;
+}
+
+h1, h2, h3 {
+    font-family: 'young-serif', sans-serif;
+}
+
+p, li {
+    font-family: 'outfit', sans-serif;
+}
+
+li {
+    margin-bottom: 8px;
+    padding-left: 10px;
+}
+
+span, strong {
+    font-family: 'outfit', sans-serif;
+    position: relative;
+    left: 20px;
+}
+
+.body {
+    background-color: hsl(30, 54%, 90%);
+}
+
+.white {
+    background-color: hsl(0, 0%, 100%);
+    width: 736px;
+    height: 1708px;
+    margin: 0 auto; 
+    border-radius: 50px;
+}
+
+img {
+    height: 300px;
+    width: 656px;
+    margin: 40px;
+    border-radius: 60px;    
+}
+
+.container {
+    padding: 40px;
+}
+
+.title_1 {
+    margin-top: -40px;
+    margin-bottom: 25px;    
+}
+
+.rose-white {
+    background-color:  #FFF7FB;
+    padding: 28px;
+    border-radius: 40px;
+}
+
+.title_2 {
+    margin-top: 0px;
+    margin-left: 23px;
+}
+
+.item_1 {
+    padding-left: 283px;
+}
+
+
+.item_2 {
+    padding-left: 313px;
+}
+
+.item_3 {
+    padding-left: 302px;
+}
+
+.item_4 {
+    padding-left: 334px;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+    padding: 15px;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+
+
