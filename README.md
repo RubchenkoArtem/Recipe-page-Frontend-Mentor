@@ -33,7 +33,7 @@ Want some support on the challenge? Join our community and ask questions in the 
 
 ## Links
 
-- Solution URL: [Click](https://rubchenkoartem.github.io/Recipe-page-Frontend-Mentor/)
+- Solution URL: [Click](https://www.frontendmentor.io/solutions/css-html5-wDJfaLh1Lr)
 - Live Site URL: [Click](https://rubchenkoartem.github.io/Recipe-page-Frontend-Mentor/)
 
 ## Built with
